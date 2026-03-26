@@ -11,7 +11,7 @@ Cuando se observa el cielo hay que transformar fotones a unidades digitales que 
 
 En el código se incluye todo el proceso de calibración del telescopio 'MAS500', con una apertura focal de 6500 [mm]. Se incluye la creación de todas las 'Master Images' de calibración, los detalles técnicos que hay que considerar durante todo el proceso y la reducción final para pasar de una imágen cruda de ciencia a una imagen limpia.
 
-#Bibliografía:
+# Bibliografía:
 
 1. Fukugita, M., et al. (1996). "The Sloan Digital Sky Survey Photometric System". The Astronomical Journal, 111, 1748.
 2. Amigo, P. Toloza, O. (2026). Lecture slides for AST205.
